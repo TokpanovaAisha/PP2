@@ -1,0 +1,8 @@
+name,phone
+Elena,870123456
+Peter,877787374
+Anya, 870175481
+Laura,874737482
+Anya, 870199985
+Dmitry,870745345
+Anya, 870145689
